@@ -1,0 +1,41 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    Background-color: #eee;
+}
+
+#envelope, #home, #marker, #phonecall, #share, #user {
+    width: 200px;
+    padding: 50px;
+    fill: #FF00BE;
+   
+  
+}
+
+
+#envelope:hover {
+    animation: scale 0.5s infinite alternate;
+  }
+
+  #home:hover {
+    animation: scale 0.5s infinite alternate;
+  }
+  
+
+  #marker:hover {
+    animation: scale 0.5s infinite alternate;
+  }
+
+  #phonecall:hover {
+    animation: scale 0.5s infinite alternate;
+  }
+
+
+  #share:hover {
+    animation: scale 0.5s infinite alternate;
+  }
+
+  #user:hover {
+    animation: scale 0.5s infinite alternate;
+  }
